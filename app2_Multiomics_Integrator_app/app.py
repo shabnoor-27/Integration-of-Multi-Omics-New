@@ -16,6 +16,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 import umap
 from matplotlib.colors import Normalize
+import streamlit.components.v1 as components
 
 # -----------------------------
 # App Configuration
